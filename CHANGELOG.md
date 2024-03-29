@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.20.4](https://github.com/folke/lazy.nvim/compare/v10.20.3...v10.20.4) (2024-03-29)
+
+
+### Bug Fixes
+
+* **ui:** set backdrop filetype to `lazy_backdrop`. Fixes [#1399](https://github.com/folke/lazy.nvim/issues/1399) ([31ddbea](https://github.com/folke/lazy.nvim/commit/31ddbea7c10b6920c9077b66c97951ca8682d5c8))
+
 ## [10.20.3](https://github.com/folke/lazy.nvim/compare/v10.20.2...v10.20.3) (2024-03-28)
 
 
